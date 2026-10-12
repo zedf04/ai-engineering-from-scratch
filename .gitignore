@@ -14,6 +14,10 @@ build/
 .ipynb_checkpoints/
 *.ipynb_metadata/
 
+.pt
+.pth
+.safetensors
+
 node_modules/
 .next/
 out/
